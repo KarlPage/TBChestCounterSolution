@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<chests>
+  <chest type="arena">
+    <points level="any" amount="5" />
+  </chest>
+  <chest type="crypt" text="level @level @type">
+    <points level="5" amount="1" />
+    <points level="10" amount="2" />
+    <points level="15" amount="3" />
+  </chest>
+  <chest type="epic" text="level @level @type crypt">
+    <points level="10" amount="4" />
+    <points level="15" amount="8" />
+    <points level="20" amount="16" />
+    <points level="25" amount="24" />
+  </chest>
+  <chest type="rare" text="level @level @type crypt">
+    <points level="15" amount="9" />
+    <points level="20" amount="18" />
+    <points level="25" amount="27" />
+  </chest>
+</chests>

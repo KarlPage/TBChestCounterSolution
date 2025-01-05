@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<clan>
+  <ranks>
+    <rank id="1" type="Leader" />
+    <rank id="2" type="Superior" />
+    <rank id="3" type="Officer" />
+    <rank id="4" type="Veteran" />
+    <rank id="5" type="Soldier" />
+  </ranks>
+  
+  <members>
+    <member name="TrojanHoarse" rankid="1" />
+    <member name="Xcion" rankid="1" />
+    <member name="Captain Slog" rankid="1" />
+    <member name="Prefect Slog" rankid="1" />
+    <member name="RockyYo" rankid="1" />
+    <member name="Truthbinder" rankid="1" />
+    <member name="Lord Buza" rankid="1" />
+    <member name="Brianna Too" rankid="1" />
+    
+    <member name="Flasksvard" rankid="2" />
+    <member name="Fabrinir" rankid="2" />
+    <member name="Smith" rankid="2" />
+    <member name="Sac Mtn 01" rankid="2" />
+    <member name="Kathrilis" rankid="2" />
+    <member name="Lady Verito" rankid="2" />
+    <member name="Maeglil" rankid="2" />
+    <member name="Karlos" rankid="2" />
+    <member name="Ballaris" rankid="2" />
+    <member name="Elfanor" rankid="2" />
+    <member name="RockyYoSK" rankid="2" />
+    <member name="Blackfire2" rankid="2" />
+    <member name="HighRolls" rankid="2" />
+    <member name="cupids little minx" rankid="2" />
+    <member name="ShockBane" rankid="2" />
+
+    <member name="Ozymandias" rankid="4" />
+    <member name="Moginn the Magnifico" rankid="4" />
+    <member name="Alan" rankid="4" />
+    <member name="Tammy77" rankid="4" />
+    <member name="Nejinn" rankid="4" />
+    <member name="Navy Brat 17" rankid="4" />
+    <member name="Elfanor2" rankid="4" />
+    <member name="Arladin" rankid="4" />
+    <member name="77Tammy77" rankid="4" />
+    <member name="Karlos Maximus" rankid="4" />
+    <member name="Flaskdolk" rankid="4" />
+    <member name="Mafedod" rankid="4" />
+    <member name="Elrining" rankid="4" />
+    <member name="Gran" rankid="4" />
+    <member name="Socobenoth" rankid="4" />
+    <member name="Freya" rankid="4" />
+    <member name="Ilvenen" rankid="4" />
+    <member name="Star Girl" rankid="4" />
+    <member name="Dr Prof SkulhedFace" rankid="4" />
+    <member name="SOL INVICTUS" rankid="4" />
+    <member name="Beekeeper snoweye" rankid="4" />
+    <member name="Turgolod" rankid="4" />
+    <member name="Agatha Vanilla" rankid="4" />
+    <member name="CrNiCeRaK" rankid="4" />
+    <member name="Lightweaver" rankid="4" />
+    <member name="Nobody" rankid="4" />
+    <member name="Ballaswyn" rankid="4" />
+    <member name="Davis Robson" rankid="4" />
+    <member name="Milkalkree" rankid="4" />
+    <member name="Ares" rankid="4" />
+    <member name="Mikalar" rankid="4" />
+    <member name="Difaneyl" rankid="4" />
+    <member name="Ishnntrius" rankid="4" />
+    <member name="Firulais" rankid="4" />
+    <member name="Princess Brianna" rankid="4" />
+    <member name="Lytse Jan" rankid="4" />
+    <member name="Felina" rankid="4" />
+    <member name="Nimduen" rankid="4" />
+    <member name="Nerin" rankid="4" />
+    <member name="Aquiles" rankid="4" />
+    <member name="Vilaine epouse" rankid="4" />
+    <member name="Raven" rankid="4" />
+    <member name="Diresong" rankid="4" />
+    <member name="Adoragas" rankid="4" />
+    <member name="Larrining" rankid="4" />
+    <member name="BoBo" rankid="4" />
+    <member name="Nejinn BSL" rankid="4" />
+    <member name="Seranen" rankid="4" />
+    <member name="Tygrallador" rankid="4" />
+    <member name="Fotius" rankid="4" />
+    <member name="Banging Beaver" rankid="4" />
+    <member name="Zene" rankid="4" />
+    <member name="Orodgorm" rankid="4" />
+    <member name="Fanlotilas" rankid="4" />
+    <member name="Mad Irish" rankid="4" />
+    <member name="Nervening" rankid="4" />
+    <member name="Who Me" rankid="4" />
+    <member name="Longjohn" rankid="4" />
+    <member name="McGyver" rankid="4" />
+    <member name="XPure" rankid="4" />
+    <member name="Basement Dweller" rankid="4" />
+    <member name="Shaligelv" rankid="4" />
+    
+    <member name="" rankid="4" />
+  </members>
+</clan>
